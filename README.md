@@ -13,8 +13,11 @@
 ## 🙋‍♂️ | Présentation
 
 L'espace client qui se trouve ici est un panel complet qui permet de modifier à votre guise c'est fonction pour l'utiliser avec différentes API ex: Proxmox, Pterodactyl, ...
+
 Dans ce panel il y a différents systèmes de payement tel que Paypal ou Stripe d'autres sont à venir.
+
 Cette base utilise le thème Vuexy qui se trouve sur themeforest.
+
 Tout le code qui se trouve dans le projet vient de moi-même ou de potentiel aide avec forum.
 
 ## 💾 | Télécharger

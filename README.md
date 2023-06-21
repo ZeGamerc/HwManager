@@ -1,4 +1,4 @@
-<h1 align="center">HwManger</h1>
+<h1 align="center">HwManager</h1>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=Build&message=DEV&color=2ea44f&style=for-the-badge" alt="build">
